@@ -1,2 +1,2 @@
-# learn-csharp-oop
+# learning-csharp-oop
 Learning any thing C#
